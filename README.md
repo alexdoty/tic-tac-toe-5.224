@@ -1,5 +1,5 @@
 # tic-tac-toe-5.224
-A group project for our university.
+A project for AAU.
 
 ## Tasks
 
